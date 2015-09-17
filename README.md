@@ -231,5 +231,5 @@ Copyright &copy; 2015. The [Compute.io](https://github.com/compute-io) Authors.
 [dev-dependencies-image]: http://img.shields.io/david/dev/distributions-io/gamma-random.svg
 [dev-dependencies-url]: https://david-dm.org/dev/distributions-io/gamma-random
 
-[github-issues-image]: http://img.shields.io/github/issues/distributions-io/gamma-random.svg
+[github-issues-image]:  http://img.shields.io/github/issues/distributions-io/gamma-random.svg
 [github-issues-url]: https://github.com/distributions-io/gamma-random/issues
